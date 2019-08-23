@@ -142,7 +142,7 @@ if(!isset($_SESSION["userEmail"]) || $_SESSION["userEmail"]==""){
   <div class="collapse navbar-collapse navbar-ex1-collapse">
     <ul class="nav navbar-nav navbar-right">
     	<li>
-    		<a href="search.php">Home</a>
+    		<a href="profile.php">Home</a>
 		</li>
 		<li>
     		<a href="logout.php">Logout</a>
